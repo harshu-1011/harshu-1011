@@ -9,7 +9,7 @@ Hello there! I'm Harshvardhan Patil, a passionate software developer and Java en
 - Frameworks: Spring Boot
 - Databases: SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
 - APIs: FastAPI, RestAPI, Postman
-- DSA: Data Structures and Algorithms
+- DSA: Data Structures and Algorithms 
 
 ## Projects 🛠️
 Here are a few notable projects that showcase my skills and expertise:
