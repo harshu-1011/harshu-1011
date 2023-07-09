@@ -1,4 +1,3 @@
-# Harshvardhan Patil 💻✨
 # Hi there! <img alt="" src="https://media1.tenor.com/images/e5a6c8fff7422d5a137feade378401ac/tenor.gif?itemid=5530137" width="50px"> I'm Harshvardhan Patil 💻✨ - Your Software Developer & Java Developer Extraordinair! 🧑‍🔬🚀  
 
 ## About Me 🚀
