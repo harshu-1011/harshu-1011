@@ -1,4 +1,5 @@
 # Harshvardhan Patil 💻✨
+# Hi there! <img alt="" src="https://media1.tenor.com/images/e5a6c8fff7422d5a137feade378401ac/tenor.gif?itemid=5530137" width="50px"> I'm Harshvardhan Patil 💻✨ - Your Software Developer & Java Developer Extraordinair! 🧑‍🔬🚀  
 
 ## About Me 🚀
 Hello there! I'm Harshvardhan Patil, a passionate software developer and Java enthusiast. I hold a Bachelor's degree in Computer Science (Bcs) from Tuljaram Chaturchand College, Baramati, Maharashtra. Currently, I am pursuing a Master of Computer Applications (MCA) at Fergusson College, Pune. With a strong foundation in computer science and a drive for continuous learning, I strive to create efficient and robust software solutions.
