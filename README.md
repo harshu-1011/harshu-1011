@@ -4,11 +4,10 @@
 Hello there! I'm Harshvardhan Patil, a passionate software developer and Java enthusiast. I hold a Bachelor's degree in Computer Science (Bcs) from Tuljaram Chaturchand College, Baramati, Maharashtra. Currently, I am pursuing a Master of Computer Applications (MCA) at Fergusson College, Pune. With a strong foundation in computer science and a drive for continuous learning, I strive to create efficient and robust software solutions.
 
 ## Skills 🎯
-- Programming Languages: C, C++, C#, Java, Python, PHP
-- Web Technologies: HTML, CSS, JavaScript, jQuery, Node.js, AngularJS, Express.js, ReactJS
-- Frameworks: Spring Boot
-- Databases: SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
-- APIs: FastAPI, RestAPI, Postman
+- Programming Languages: C, C++, Java, Python, PHP
+- Web Technologies: HTML, CSS, JavaScript
+- Frameworks: Spring MVC
+- Databases: SQL (Oracle, MySQL)
 - DSA: Data Structures and Algorithms 
 
 ## Projects 🛠️
