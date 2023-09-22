@@ -14,11 +14,17 @@ Hello there! I'm Harshvardhan Patil, a passionate software developer and Java en
 Here are a few notable projects that showcase my skills and expertise:
 
 1.**Complaint Management System 🎥**
+
 2.**Doctor-Patient Portal 🎥**
+
 3.**Libray Management System 🎥**
+
 4.**Farm Online Join India 🎥**
+
 5.**Rocker-Pebber-Seccerior 🎥**
+
 6.**Personal Diary🎥**
+
 7.**Libray_Eith_Membership_Attendence_System🎥**
      
 ## Education 🎓
