@@ -13,13 +13,13 @@ Hello there! I'm Harshvardhan Patil, a passionate software developer and Java en
 ## Projects 🛠️
 Here are a few notable projects that showcase my skills and expertise:
 
-1. **Complaint Management System**
-   - Developed a fully functional web based project which is bulid in PHP with database to solve the customer's complaint and customer can add complaint if thhey want to add.
-   - Technologies used:PHP,AJAX, MySQL, HTML, CSS, JavaScript
-     
-2. **Doctor-Patient Portal  🎥**
-   - It is web Based Project which used for Hospital Management and patient Appointment with all types of doctor.
-   - Technologies used:Java,JSP,MySQL,AJAX,JavaMail, HTML, CSS, JavaScript
+1.**Complaint Management System 🎥**
+2.**Doctor-Patient Portal 🎥**
+3.**Libray Management System 🎥**
+4.**Farm Online Join India 🎥**
+5.**Rocker-Pebber-Seccerior 🎥**
+6.**Personal Diary🎥**
+7.**Libray_Eith_Membership_Attendence_System🎥**
      
 ## Education 🎓
 - Master of Computer Applications (MCA) - Fergusson College, Pune (Ongoing)
