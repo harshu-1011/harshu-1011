@@ -19,15 +19,13 @@ Here are a few notable projects that showcase my skills and expertise:
 
 3.**Library Management System 🎥**
 
-4.**Farm Online Join India 🎥**
+4.**Rocker-Pebber-Seccerior 🎥**
 
-5.**Rocker-Pebber-Seccerior 🎥**
+5.**Personal Diary🎥**
 
-6.**Personal Diary🎥**
+6.**Library_With_Membership_Attendence_System🎥**
 
-7.**Library_With_Membership_Attendence_System🎥**
-
-8.**Banking System Stand-Alone Application🎥**
+7.**Banking System Stand-Alone Application🎥**
      
 ## Education 🎓
 - Master of Computer Applications (MCA) - Fergusson College, Pune (Ongoing)
